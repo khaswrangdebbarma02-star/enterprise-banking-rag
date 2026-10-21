@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Allow the example environment file
+!.env.example
+
+# ChromaDB generated database
+chroma_db/
+
+# Testing cache
+.pytest_cache/
+
+# macOS files
+.DS_Store

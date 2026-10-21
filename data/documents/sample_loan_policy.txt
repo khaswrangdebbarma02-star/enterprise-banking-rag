@@ -1,0 +1,24 @@
+SAMPLE PERSONAL LOAN POLICY
+
+Document Type: Educational Demonstration
+Policy ID: DEMO-LOAN-001
+
+1. Loan Eligibility
+
+Applicants seeking a personal loan must meet the lender's eligibility requirements. Eligibility may depend on age, income, employment status, credit history, and repayment capacity.
+
+2. Required Documents
+
+Applicants may be asked to provide identity verification, address verification, income proof, and employment-related documents. The exact requirements depend on the lender's official policy.
+
+3. Credit Assessment
+
+The lender evaluates the applicant's credit history, existing financial obligations, income stability, and ability to repay the loan.
+
+4. Loan Approval
+
+Loan approval is subject to document verification, credit assessment, and the lender's applicable policies.
+
+5. Important Disclaimer
+
+This document is fictional and intended only for software development and demonstration. It is not an official banking policy or regulatory guideline.
