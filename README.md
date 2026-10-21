@@ -103,11 +103,10 @@ The project was developed and tested in a local Python virtual environment.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/khaswrangdebbarma02-star/enterprise-banking-rag.git
 cd enterprise-banking-rag
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Create and activate a virtual environment
 
@@ -212,4 +211,4 @@ This is an educational software project. The included documents are fictional ex
 
 ## License
 
-Add your chosen open-source license to this repository and include its corresponding license file.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
